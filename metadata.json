@@ -1,0 +1,11 @@
+{
+  "name": "ARIA Quantum Suite",
+  "description": "Adaptive Reinforcement Intelligence for Assets (ARIA). A professional AI trading agent featuring multi-factor RL analysis, risk-managed capital allocation, and self-evolving neural strategies for NSE/Global markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Reinforcement Learning",
+    "Predictive Analytics",
+    "Quantitative Finance",
+    "Risk Management"
+  ]
+}
